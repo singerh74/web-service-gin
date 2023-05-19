@@ -6,6 +6,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+// Tutorial: Developing a RESTful API with Go and Gin 
 // See https://go.dev/doc/tutorial/web-service-gin for examples how to run this program
 
 // album represents data about a record album.
